@@ -1,0 +1,43 @@
+﻿@* @model TriStarClub.Models.PaymentModel
+
+@{
+    ViewBag.Title = "Payment";
+}
+
+<h2>Payment</h2>
+
+@using (Html.BeginForm("ProcessPayment", "Payment", FormMethod.Post))
+{
+    <div>
+        @Html.LabelFor(m => m.CardNumber)
+        @Html.TextBoxFor(m => m.CardNumber)
+        @Html.ValidationMessageFor(m => m.CardNumber)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.ExpiryDate)
+        @Html.TextBoxFor(m => m.ExpiryDate)
+        @Html.ValidationMessageFor(m => m.ExpiryDate)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.CVV)
+        @Html.TextBoxFor(m => m.CVV)
+        @Html.ValidationMessageFor(m => m.CVV)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Amount)
+        @Html.TextBoxFor(m => m.Amount)
+        @Html.ValidationMessageFor(m => m.Amount)
+    </div>
+    <button type="submit">Pay</button>
+
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <p>@ViewBag.Message</p>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+ *@

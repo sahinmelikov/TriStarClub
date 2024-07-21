@@ -1,0 +1,2021 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TriStarClub.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TriStarClub.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\Properties\\PublishProfiles\\SinamYolVereqi20240510213222 - Web Deploy.pubxml",
+      "PackagePath": "staticwebassets\\Properties\\PublishProfiles\\SinamYolVereqi20240510213222 - Web Deploy.pubxml"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\Properties\\ServiceDependencies\\SinamYolVereqi20240510213222 - Web Deploy\\profile.arm.json",
+      "PackagePath": "staticwebassets\\Properties\\ServiceDependencies\\SinamYolVereqi20240510213222 - Web Deploy\\profile.arm.json"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\Properties\\launchSettings.json",
+      "PackagePath": "staticwebassets\\Properties\\launchSettings.json"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\Properties\\serviceDependencies.SinamYolVereqi20240510213222 - Web Deploy.json",
+      "PackagePath": "staticwebassets\\Properties\\serviceDependencies.SinamYolVereqi20240510213222 - Web Deploy.json"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\Properties\\serviceDependencies.json",
+      "PackagePath": "staticwebassets\\Properties\\serviceDependencies.json"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\RootAllPictures\\img\\413a3ffd-e5ec-42c1-b96e-a225db89c8a6cyclist.png",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\413a3ffd-e5ec-42c1-b96e-a225db89c8a6cyclist.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\RootAllPictures\\img\\45222587-821b-459f-af90-8b50b2cc45f2AR4_6114.jpg",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\45222587-821b-459f-af90-8b50b2cc45f2AR4_6114.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\RootAllPictures\\img\\66cece80-b2b0-4699-b6bc-bb2f89c5242eANG2_6377.jpg",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\66cece80-b2b0-4699-b6bc-bb2f89c5242eANG2_6377.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\RootAllPictures\\img\\8d332e5d-e5e4-489a-bec1-a75bd1a63831Ramil_Guliyev_London_2017.jpg",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\8d332e5d-e5e4-489a-bec1-a75bd1a63831Ramil_Guliyev_London_2017.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\RootAllPictures\\img\\ace25c29-e218-4ff8-9257-eaa4d7a804aeff.jpg",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\ace25c29-e218-4ff8-9257-eaa4d7a804aeff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\RootAllPictures\\img\\f4133fba-24c3-4e44-820b-69b0f6e8468fcc.png",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\f4133fba-24c3-4e44-820b-69b0f6e8468fcc.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\template\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\template\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\documentation\\documentation.html",
+      "PackagePath": "staticwebassets\\admin\\template\\documentation\\documentation.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\gulpfile.js",
+      "PackagePath": "staticwebassets\\admin\\template\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\index.html",
+      "PackagePath": "staticwebassets\\admin\\template\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\package-lock.json",
+      "PackagePath": "staticwebassets\\admin\\template\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\package.json",
+      "PackagePath": "staticwebassets\\admin\\template\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\pages\\samples\\lock-screen.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\samples\\lock-screen.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\pages\\samples\\login-2.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\samples\\login-2.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\pages\\samples\\register-2.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\samples\\register-2.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\admin\\template\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\admin\\template\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\partials\\_settings-panel.html",
+      "PackagePath": "staticwebassets\\admin\\template\\partials\\_settings-panel.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\admin\\template\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\admin\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\3Ue6NacK.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\3Ue6NacK.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\3W3kE5Jc.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\3W3kE5Jc.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\438wU9fJ.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\438wU9fJ.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\7zTc5CpY.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\7zTc5CpY.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\B4KS3TuP.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\B4KS3TuP.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\B4sBjfop.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\B4sBjfop.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\B6iKLWaP.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\B6iKLWaP.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\BAwekDs2.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\BAwekDs2.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\BDL_x2F5.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\BDL_x2F5.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\BEn497Pz.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\BEn497Pz.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\BFduWOoW.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\BFduWOoW.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\BGz5aeao.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\BGz5aeao.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\BM33VhKc.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\BM33VhKc.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\BPUH4JHD.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\BPUH4JHD.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\BYKg1SCn.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\BYKg1SCn.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\B_dvM0pQ.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\B_dvM0pQ.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\BaSATF8Z.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\BaSATF8Z.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\Bay5xCYK.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\Bay5xCYK.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\BbOvCLiC.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\BbOvCLiC.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\BbfSR_Ej.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\BbfSR_Ej.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\BcRWa55z.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\BcRWa55z.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\BfWe1yh-.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\BfWe1yh-.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\Bg58jxrP.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\Bg58jxrP.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\Bmqr94Gi.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\Bmqr94Gi.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\Bo3olcGw.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\Bo3olcGw.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\BqEknKSJ.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\BqEknKSJ.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\BqTjkno-.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\BqTjkno-.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\Bu30w2UE.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\Bu30w2UE.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\BvQgWdB0.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\BvQgWdB0.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\Bx1OcFTh.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\Bx1OcFTh.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\BxP8HXiW.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\BxP8HXiW.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\C1CCw54r.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\C1CCw54r.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\C3eiV9eZ.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\C3eiV9eZ.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\C8BQHYZi.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\C8BQHYZi.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\CAci_FPM.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\CAci_FPM.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\CDKY-RUU.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\CDKY-RUU.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\CHXXxOy-.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\CHXXxOy-.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\CI3kPauM.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\CI3kPauM.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\CJrt3tAi.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\CJrt3tAi.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\CNVwhAzt.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\CNVwhAzt.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\CNmUNVPL.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\CNmUNVPL.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\CWI3wdPG.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\CWI3wdPG.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\CaxInB52.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\CaxInB52.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\CdG0B5iS.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\CdG0B5iS.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\Cgfb2pr_.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\Cgfb2pr_.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\CkOkU0We.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\CkOkU0We.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\CmRLMSal.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\CmRLMSal.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\CqiT2kZx.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\CqiT2kZx.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\CtpbzS-f.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\CtpbzS-f.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\Ctq6v3cF.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\Ctq6v3cF.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\Cu5kvIN4.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\Cu5kvIN4.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\CwwJffYC.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\CwwJffYC.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\CyAn8n-y.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\CyAn8n-y.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\CyCUcgYy.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\CyCUcgYy.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\CyvmEBDe.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\CyvmEBDe.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\D7YwBTy_.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\D7YwBTy_.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\D97F5NmH.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\D97F5NmH.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\DA3s9WCX.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\DA3s9WCX.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\DAmYokjo.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\DAmYokjo.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\DEC3fb4Z.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\DEC3fb4Z.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\DEWfEbZt.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\DEWfEbZt.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\DH3-Mkvj.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\DH3-Mkvj.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\DJmDCQjL.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\DJmDCQjL.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\DJzENhv0.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\DJzENhv0.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\DNOlB8Xy.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\DNOlB8Xy.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\DT5KE1-1.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\DT5KE1-1.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\Deu5CiWm.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\Deu5CiWm.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\DpIuk7_0.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\DpIuk7_0.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\DspA-NJo.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\DspA-NJo.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\DszfDTQr.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\DszfDTQr.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\Dv4En90A.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\Dv4En90A.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\DyJPHA96.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\DyJPHA96.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\ItgtrmpN.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\ItgtrmpN.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\M_pVyrF-.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\M_pVyrF-.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\Mhzlbvrj.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\Mhzlbvrj.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\RouteMap.CsL6Qw8G.css",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\RouteMap.CsL6Qw8G.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\TPQ_BZzG.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\TPQ_BZzG.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\VOJymde5.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\VOJymde5.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\X7eZhn6A.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\X7eZhn6A.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\Xv5KstGQ.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\Xv5KstGQ.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\YU89knj8.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\YU89knj8.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\_camps.SlUb8CoF.css",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\_camps.SlUb8CoF.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\aXYSAK1N.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\aXYSAK1N.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\bIp8vrNC.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\bIp8vrNC.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\c-ZnYkb2.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\c-ZnYkb2.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\contacts.BjIE3Rws.css",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\contacts.BjIE3Rws.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\entry.MN5E7vKX.css",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\entry.MN5E7vKX.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\flags.BMGzDaSLc4ca.png",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\flags.BMGzDaSLc4ca.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\flags_2x.DTOyOn_-c4ca.png",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\flags_2x.DTOyOn_-c4ca.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\index.CcRMKd7z.css",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\index.CcRMKd7z.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\rcNBlvO_.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\rcNBlvO_.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\requisites.CwLKJCZw.css",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\requisites.CwLKJCZw.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\tQQT7F4n.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\tQQT7F4n.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\vTIBdjwe.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\vTIBdjwe.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\vue-yandex-maps.DHLzW3M6.css",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\vue-yandex-maps.DHLzW3M6.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\_nuxt\\z1mF-5nA.js",
+      "PackagePath": "staticwebassets\\projecss\\_nuxt\\z1mF-5nA.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\cdn.jsdelivr.net\\gh\\fancyapps\\fancybox@3.5.7\\dist\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\projecss\\cdn.jsdelivr.net\\gh\\fancyapps\\fancybox@3.5.7\\dist\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\cdn.jsdelivr.net\\gh\\fancyapps\\fancybox@3.5.7\\dist\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\projecss\\cdn.jsdelivr.net\\gh\\fancyapps\\fancybox@3.5.7\\dist\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\cdnjs.cloudflare.com\\ajax\\libs\\slick-carousel\\1.9.0\\slick.min.css",
+      "PackagePath": "staticwebassets\\projecss\\cdnjs.cloudflare.com\\ajax\\libs\\slick-carousel\\1.9.0\\slick.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\cdnjs.cloudflare.com\\ajax\\libs\\slick-carousel\\1.9.0\\slick.min.js",
+      "PackagePath": "staticwebassets\\projecss\\cdnjs.cloudflare.com\\ajax\\libs\\slick-carousel\\1.9.0\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\img\\tristar-removebg-preview.png",
+      "PackagePath": "staticwebassets\\projecss\\img\\tristar-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\neo.tildacdn.com\\js\\tilda-fallback-1.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\neo.tildacdn.com\\js\\tilda-fallback-1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\css\\highlight.min.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\css\\highlight.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\css\\tilda-animation-2.0.min.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\css\\tilda-animation-2.0.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\css\\tilda-cards-1.0.min.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\css\\tilda-cards-1.0.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\css\\tilda-cart-1.0.min.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\css\\tilda-cart-1.0.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\css\\tilda-catalog-1.1.min.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\css\\tilda-catalog-1.1.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\css\\tilda-cover-1.0.min.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\css\\tilda-cover-1.0.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\css\\tilda-feed-1.0.min.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\css\\tilda-feed-1.0.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\css\\tilda-forms-1.0.min.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\css\\tilda-forms-1.0.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\css\\tilda-grid-3.0.min.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\css\\tilda-grid-3.0.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\css\\tilda-popup-1.1.min.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\css\\tilda-popup-1.1.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\css\\tilda-slds-1.4.min.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\css\\tilda-slds-1.4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\css\\tilda-zoom-2.0.min.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\css\\tilda-zoom-2.0.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\hammer.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\hammer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\highlight.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\highlight.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\jquery-1.10.2.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\jquery-1.10.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-animation-2.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-animation-2.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-animation-sbs-1.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-animation-sbs-1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-cards-1.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-cards-1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-cart-1.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-cart-1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-catalog-1.1.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-catalog-1.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-cover-1.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-cover-1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-events-1.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-events-1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-feed-1.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-feed-1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-forms-1.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-forms-1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-lazyload-1.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-lazyload-1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-map-1.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-map-1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-menu-1.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-menu-1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-polyfill-1.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-polyfill-1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-popup-1.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-popup-1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-products-1.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-products-1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-scripts-3.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-scripts-3.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-skiplink-1.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-skiplink-1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-slds-1.4.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-slds-1.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-stat-1.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-stat-1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-zero-1.1.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-zero-1.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-zero-forms-1.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-zero-forms-1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-zero-scale-1.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-zero-scale-1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\js\\tilda-zoom-2.0.min.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\js\\tilda-zoom-2.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3032-3265-4930-b439-643738333330\\noroot.png",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3032-3265-4930-b439-643738333330\\noroot.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3037-3139-4535-b334-353432383638\\IMG_20200911_154533.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3037-3139-4535-b334-353432383638\\IMG_20200911_154533.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3062-3738-4136-a561-353133623265\\3vel.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3062-3738-4136-a561-353133623265\\3vel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3063-6665-4839-b866-386361346462\\IMG_7432.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3063-6665-4839-b866-386361346462\\IMG_7432.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3133-3932-4361-a136-623064633333\\IMG_4571_1.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3133-3932-4361-a136-623064633333\\IMG_4571_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3133-6361-4666-b438-373366323638\\photo_2021-08-19_12-.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3133-6361-4666-b438-373366323638\\photo_2021-08-19_12-.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3135-3162-4535-a366-343730653331\\IMG_8174.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3135-3162-4535-a366-343730653331\\IMG_8174.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3139-3066-4032-a339-333061343439\\IMG_7486.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3139-3066-4032-a339-333061343439\\IMG_7486.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3163-3638-4261-b465-383736633637\\IMG_7582.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3163-3638-4261-b465-383736633637\\IMG_7582.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3231-3938-4839-b763-623261383337\\photo_53458242977525.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3231-3938-4839-b763-623261383337\\photo_53458242977525.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3236-6337-4066-b462-373234666539\\IMG_7432.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3236-6337-4066-b462-373234666539\\IMG_7432.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3237-3937-4439-b563-333133343063\\IMG_4570_1.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3237-3937-4439-b563-333133343063\\IMG_4570_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3264-3539-4834-b832-643562356232\\fav.png",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3264-3539-4834-b832-643562356232\\fav.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3335-6134-4665-a532-633764313839\\IMG_7902.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3335-6134-4665-a532-633764313839\\IMG_7902.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3336-6663-4264-b264-313962623632\\IMG_7582.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3336-6663-4264-b264-313962623632\\IMG_7582.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3365-6536-4466-a134-366562333338\\marco-ghirello-Izmxk.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3365-6536-4466-a134-366562333338\\marco-ghirello-Izmxk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3466-6333-4565-a239-306366336565\\og_premium.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3466-6333-4565-a239-306366336565\\og_premium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3561-3463-4631-a139-633530323130\\IMG_7906.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3561-3463-4631-a139-633530323130\\IMG_7906.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3636-6630-4330-a666-666133343466\\og_premium.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3636-6630-4330-a666-666133343466\\og_premium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3662-3065-4632-b363-346239383038\\IMG_7902.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3662-3065-4632-b363-346239383038\\IMG_7902.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3662-6166-4337-a635-666663373930\\IMG_7535.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3662-6166-4337-a635-666663373930\\IMG_7535.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3663-6236-4464-b339-386136333034\\IMG_20200911_154533.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3663-6236-4464-b339-386136333034\\IMG_20200911_154533.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3738-6461-4663-a162-373065313237\\b404494d-10b6-4def-a.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3738-6461-4663-a162-373065313237\\b404494d-10b6-4def-a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3763-6230-4139-a331-366235353434\\IMG_7715.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3763-6230-4139-a331-366235353434\\IMG_7715.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3831-6139-4062-a539-363966306635\\IMG_7847.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3831-6139-4062-a539-363966306635\\IMG_7847.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3862-3830-4530-b466-643861303564\\4560881.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3862-3830-4530-b466-643861303564\\4560881.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3863-3865-4138-a336-633162333431\\IMG_7432.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3863-3865-4138-a336-633162333431\\IMG_7432.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3931-6133-4134-a563-313734613930\\OG2.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3931-6133-4134-a563-313734613930\\OG2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3933-3162-4565-b964-366631393433\\IMG_7652.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3933-3162-4565-b964-366631393433\\IMG_7652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3935-3939-4534-a266-356137326638\\OG2.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3935-3939-4534-a266-356137326638\\OG2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3963-6331-4532-a337-373961663135\\IMG_7760.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3963-6331-4532-a337-373961663135\\IMG_7760.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild3963-6635-4639-a464-326436383765\\IMG_7731.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild3963-6635-4639-a464-326436383765\\IMG_7731.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild6163-6361-4064-b534-636565313037\\0b92aae3-bc7f-4e90-8.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild6163-6361-4064-b534-636565313037\\0b92aae3-bc7f-4e90-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild6164-3832-4639-a261-336635623434\\IMG_8174.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild6164-3832-4639-a261-336635623434\\IMG_8174.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild6166-3763-4130-b235-616133616266\\russia-sochi-sochipo.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild6166-3763-4130-b235-616133616266\\russia-sochi-sochipo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild6235-3763-4637-b763-643434363534\\Ex9LPPYIDBU.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild6235-3763-4637-b763-643434363534\\Ex9LPPYIDBU.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild6239-6465-4464-b738-303662646362\\108586433_1877131893.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild6239-6465-4464-b738-303662646362\\108586433_1877131893.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild6261-6538-4263-a162-653333656132\\IMG_8174.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild6261-6538-4263-a162-653333656132\\IMG_8174.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild6266-3936-4433-a165-326563363533\\IMG_7847.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild6266-3936-4433-a165-326563363533\\IMG_7847.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild6361-3438-4436-b861-653537326262\\IMG_7582.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild6361-3438-4436-b861-653537326262\\IMG_7582.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild6433-3231-4636-b933-333439386138\\Group.png",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild6433-3231-4636-b933-333439386138\\Group.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild6433-3332-4935-a266-343561616336\\IMG_4569_1.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild6433-3332-4935-a266-343561616336\\IMG_4569_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild6439-3537-4335-a566-343061383438\\IMG_7906.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild6439-3537-4335-a566-343061383438\\IMG_7906.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild6466-6631-4533-a462-313336643762\\photo_53458242977525.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild6466-6631-4533-a462-313336643762\\photo_53458242977525.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild6631-6366-4937-a563-356663353238\\IMG_7582.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild6631-6366-4937-a563-356663353238\\IMG_7582.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild6632-3838-4566-b763-343432653136\\IMG_8174.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild6632-3838-4566-b763-343432653136\\IMG_8174.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild6633-6365-4132-a234-373235643033\\why.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild6633-6365-4132-a234-373235643033\\why.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\tild6639-3066-4663-a466-326539363839\\IMG_7715.jpg",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\tild6639-3066-4663-a466-326539363839\\IMG_7715.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page12706217.mincb21.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page12706217.mincb21.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page12706217.mincb21.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page12706217.mincb21.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page44475637.mincb21.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page44475637.mincb21.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page44475637.mincb21.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page44475637.mincb21.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page45174981.min0cec.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page45174981.min0cec.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page45174981.min0cec.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page45174981.min0cec.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page45322399.min0cec.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page45322399.min0cec.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page45322399.min0cec.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page45322399.min0cec.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page45406635.min2046.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page45406635.min2046.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page45406635.min2046.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page45406635.min2046.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page49261325.min875a.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page49261325.min875a.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page49261325.min875a.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page49261325.min875a.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page49342435.min55ed.css",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page49342435.min55ed.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page49342435.min55ed.js",
+      "PackagePath": "staticwebassets\\projecss\\static.tildacdn.com\\ws\\project2450836\\tilda-blocks-page49342435.min55ed.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\plugins\\contact-form-7\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\plugins\\contact-form-7\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\plugins\\contact-form-7\\includes\\css\\styles9dff.css",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\plugins\\contact-form-7\\includes\\css\\styles9dff.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\plugins\\contact-form-7\\includes\\js\\scripts9dff.js",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\plugins\\contact-form-7\\includes\\js\\scripts9dff.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\plugins\\wp-pagenavi\\pagenavi-css44fd.css",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\plugins\\wp-pagenavi\\pagenavi-css44fd.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\css\\all_style.css",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\css\\all_style.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\Federation_Phone.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\Federation_Phone.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\Federation_Tablet.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\Federation_Tablet.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\GENERAL_TABLET_BIG.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\GENERAL_TABLET_BIG.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\GENERAL_TABLET_SMALL.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\GENERAL_TABLET_SMALL.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\General_mobile.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\General_mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\News_Phone.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\News_Phone.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\News_Tablet.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\News_Tablet.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\Zbirna_Tablet.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\Zbirna_Tablet.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\Zbirna_phone.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\Zbirna_phone.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\errorBG.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\errorBG.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\federation-firstBG.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\federation-firstBG.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\firstBG.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\firstBG.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\logo_3.svg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\logo_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\mainBG.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\mainBG.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\mainBG_1366.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\mainBG_1366.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\navigation-bg-mob-1.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\navigation-bg-mob-1.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\navigation-bg-mob-2.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\navigation-bg-mob-2.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\navigation-bg-mob-3.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\navigation-bg-mob-3.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\navigation-bg-mob-4.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\navigation-bg-mob-4.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\news-firstBG.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\news-firstBG.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\results-img.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\results-img.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\img\\team-firstBG.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\img\\team-firstBG.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\js\\all_js6fd4.js",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\js\\all_js6fd4.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\js\\all_libs6fd4.js",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\js\\all_libs6fd4.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\js\\navigation8a54.js",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\js\\navigation8a54.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\js\\parse6fd4.js",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\js\\parse6fd4.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\themes\\triatlon\\style8a54.css",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\themes\\triatlon\\style8a54.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\1.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\10.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\11.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\18620040_1357799957648111_6135464241263920742_n.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\18620040_1357799957648111_6135464241263920742_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\2.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\3.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\3.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\39883494_10215047231348114_5956790284279873536_n.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\39883494_10215047231348114_5956790284279873536_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\4.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\44597039_10215234707319212_5441436930799566848_n.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\44597039_10215234707319212_5441436930799566848_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\5-1024x720.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\5-1024x720.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\6-1024x393.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\6-1024x393.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\7-1024x659.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\7-1024x659.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\8-1024x604.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\8-1024x604.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\9-300x190.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\9-300x190.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\KAR_8618.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\KAR_8618.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\WinterTriathlon1.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\WinterTriathlon1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\sapunova_web-300x196.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\sapunova_web-300x196.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2019\\02\\triathlon-osiglia-2011-154326.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2019\\02\\triathlon-osiglia-2011-154326.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2021\\02\\2-5.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2021\\02\\2-5.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2021\\02\\2.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2021\\02\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2021\\02\\3.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2021\\02\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2021\\02\\4.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2021\\02\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2021\\02\\cropped-fav_icon_2-2-180x180.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2021\\02\\cropped-fav_icon_2-2-180x180.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2021\\02\\cropped-fav_icon_2-2-192x192.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2021\\02\\cropped-fav_icon_2-2-192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2021\\02\\cropped-fav_icon_2-2-32x32.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2021\\02\\cropped-fav_icon_2-2-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2021\\02\\icon.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2021\\02\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2021\\02\\partner_3.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2021\\02\\partner_3.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2021\\02\\triatlon.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2021\\02\\triatlon.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2021\\02\\triatlonsite.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2021\\02\\triatlonsite.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2023\\03\\group-34.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2023\\03\\group-34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2023\\03\\imgonline-com-ua-resize-l5cb2ms0scgt.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2023\\03\\imgonline-com-ua-resize-l5cb2ms0scgt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2023\\11\\triathlon_elite_2023.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2023\\11\\triathlon_elite_2023.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2023\\12\\lviv-women.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2023\\12\\lviv-women.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2023\\12\\lviv_logo-362x316.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2023\\12\\lviv_logo-362x316.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2023\\12\\lviv_logo-670x300.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2023\\12\\lviv_logo-670x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2023\\12\\olymp_r-362x316.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2023\\12\\olymp_r-362x316.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2023\\12\\olymp_r-760x300.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2023\\12\\olymp_r-760x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2023\\12\\roundtable-1-362x294.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2023\\12\\roundtable-1-362x294.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2023\\12\\roundtable-1.png",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2023\\12\\roundtable-1.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2024\\02\\izobrazhenie_viber_2024-02-17_10-19-59-271-362x316.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2024\\02\\izobrazhenie_viber_2024-02-17_10-19-59-271-362x316.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2024\\02\\izobrazhenie_viber_2024-02-17_10-19-59-271-760x300.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2024\\02\\izobrazhenie_viber_2024-02-17_10-19-59-271-760x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2024\\02\\izobrazhenie_viber_2024-02-17_12-54-54-880.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2024\\02\\izobrazhenie_viber_2024-02-17_12-54-54-880.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2024\\02\\lviv-2024_sichen_logo-362x316.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2024\\02\\lviv-2024_sichen_logo-362x316.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2024\\02\\lviv-2024_sichen_logo-592x300.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2024\\02\\lviv-2024_sichen_logo-592x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2024\\02\\voronczov-la-gaujra_1-362x316.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2024\\02\\voronczov-la-gaujra_1-362x316.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2024\\02\\voronczov-la-gaujra_1-687x300.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2024\\02\\voronczov-la-gaujra_1-687x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2024\\03\\kuartejra-362x316.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2024\\03\\kuartejra-362x316.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2024\\03\\kuartejra-760x300.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2024\\03\\kuartejra-760x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2024\\03\\para_2024-362x316.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2024\\03\\para_2024-362x316.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2024\\03\\para_2024-670x300.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2024\\03\\para_2024-670x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2024\\03\\snimok-ekrana-2024-03-16-121926.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2024\\03\\snimok-ekrana-2024-03-16-121926.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2024\\03\\snimok-ekrana-2024-03-18-182602-362x316.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2024\\03\\snimok-ekrana-2024-03-18-182602-362x316.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-content\\uploads\\2024\\03\\snimok-ekrana-2024-03-18-182602-679x300.jpg",
+      "PackagePath": "staticwebassets\\projecss\\wp-content\\uploads\\2024\\03\\snimok-ekrana-2024-03-18-182602-679x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-includes\\css\\dist\\block-library\\style.mine23c.css",
+      "PackagePath": "staticwebassets\\projecss\\wp-includes\\css\\dist\\block-library\\style.mine23c.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-includes\\js\\comment-reply.mine23c.js",
+      "PackagePath": "staticwebassets\\projecss\\wp-includes\\js\\comment-reply.mine23c.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-includes\\js\\jquery\\jquery-migrate.mind617.js",
+      "PackagePath": "staticwebassets\\projecss\\wp-includes\\js\\jquery\\jquery-migrate.mind617.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-includes\\js\\jquery\\jquery.min9d52.js",
+      "PackagePath": "staticwebassets\\projecss\\wp-includes\\js\\jquery\\jquery.min9d52.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\TriStarClub\\TriStarClub\\wwwroot\\projecss\\wp-includes\\js\\wp-embed.mine23c.js",
+      "PackagePath": "staticwebassets\\projecss\\wp-includes\\js\\wp-embed.mine23c.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TriStarClub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TriStarClub.props",
+      "PackagePath": "build\\TriStarClub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TriStarClub.props",
+      "PackagePath": "buildMultiTargeting\\TriStarClub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TriStarClub.props",
+      "PackagePath": "buildTransitive\\TriStarClub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

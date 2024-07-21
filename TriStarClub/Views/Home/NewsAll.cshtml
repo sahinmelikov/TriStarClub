@@ -1,0 +1,111 @@
+﻿@using TriStarClub.ViewModel
+@model HomeVM
+
+<style media="screen">
+    .main-wrap,
+    .first-wrap,
+    .first-spec-wrap {
+        background: url("https://d3rqy6w6tyyf68.cloudfront.net/AcuCustom/Sitename/DAM/113/tri-prediction-feature.jpg");
+    }
+
+    .pagination {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .news-page-list {
+        display: flex;
+        flex-direction:row
+        flex-wrap: wrap;
+        gap: 35px;
+    }
+
+    .main-text__desc, .first-text__desc, .first-spec-text__desc {
+      
+        max-width: 550px;
+        font-weight: 400;
+        margin-bottom: 35px;
+        position: relative;
+        color:white
+        z-index: 2;
+    }
+    @@media(max-width: 768px) {
+        .text_small{
+           color:white
+        }
+        .main-wrap,
+        .first-wrap,
+        .first-spec-wrap {
+            background: url("https://d3rqy6w6tyyf68.cloudfront.net/AcuCustom/Sitename/DAM/113/tri-prediction-feature.jpg");
+        }
+    }
+
+    @@media(max-width: 414px) {
+        .main-wrap,
+        .first-wrap,
+        .first-spec-wrap {
+            background: url("https://d3rqy6w6tyyf68.cloudfront.net/AcuCustom/Sitename/DAM/113/tri-prediction-feature.jpg");
+        }
+    }
+</style>
+
+
+<div class="news-page">
+    <div class="first-spec-wrap wrap">
+        <div class="first-spec container">
+            <div class="first-spec-text">
+                <div class="first-spec-text__title-block">
+                    <p>NEWS</p>
+                </div>
+                <div class="first-spec-text__desc text text_small">
+                    Welcome to the sport of "iron" people who win every day - both in sports arenas and in everyday life.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="filter-nav-wrap wrap">
+    <div class="filter-nav container">
+        <div class="filter-nav-list">
+            <a class="filter-nav-list__item text text_gray text_title-small active" href="index.html">ALL NEWS</a>
+            <a class="filter-nav-list__item text text_gray text_title-small" href="index7547.html?news_type=profesijnij-sport-en">PROFESSIONALS</a>
+            <a class="filter-nav-list__item text text_gray text_title-small" href="index6ca2.html?news_type=amatori-en">AMATEURS</a>
+            <a class="filter-nav-list__item text text_gray text_title-small" href="indexd30b.html?news_type=paratriatlon-en">PARATRIATHLON</a>
+        </div>
+    </div>
+</div>
+<div class="news-page-screen-wrap wrap">
+    <div class="news-page-screen container">
+        <div class="news-page-list">
+      @foreach (var item in Model.News)
+            {
+                  <div class="news-screen-slider__item">
+                <a class="news-item" href="the-national-team-of-ukraine-took-part-in-the-europe-triathlon-cup-quarteira/index.html">
+                    <div class="news-item__item-img-wrap">
+                        <img class="news-item__item-img" src="~/RootAllPictures/img/@item.ImagePath" alt="alt" title="" />
+                    </div>
+                    <div class="news-item__item-gradient"></div>
+                    <div class="news-item__item-text-block">
+                        <div class="news-item__strips-block">
+                            <div class="news-item__item-strip">
+                                <span>News</span>
+                            </div>
+                        </div>
+                        <p class="news-item__item-text text text_regular text_blue">@item.Title</p>
+                    </div>
+                </a>
+            </div>
+         
+            }
+          
+
+        </div>
+        <div class="pagination">
+            <div class='wp-pagenavi' role='navigation'>
+           
+                <span aria-current='page' class='current'>1</span><a class="page larger" title="Page 2" href="page/2/index.html">2</a><a class="page larger" title="Page 3" href="page/3/index.html">3</a><a class="nextpostslink" rel="next" href="page/2/index.html">»</a>
+            </div>
+        </div>
+    </div>
+</div>
+          </div>
